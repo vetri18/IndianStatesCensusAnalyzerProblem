@@ -8,7 +8,7 @@ namespace IndianStateCensusAnalyserTest
     {
 
         
-        static string indiaStateCensusData = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCensusData.csv";
+        static string indiaStateCensusData = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCensusData.csv";
         
         static string indianStateCensusHeaders = "State,Population,AreaInSqKm,DensityPerSqKm";
 
