@@ -8,18 +8,18 @@ namespace IndianStateCensusAnalyserTest
     {
 
         
-        static string indiaStateCensusData = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCensusData.csv";
-        static string wrongIndiaStateCensusData = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\WrongIndiaStateCensusData.csv";
-        static string wrongFileIndiaStateCensusData = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSVFiles\WrongIndiaStateCensusData.csv";
-        static string indiaStateCensusDataText = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCensusDAta.txt";
-        static string delimiterIndiaStateCensusData = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\DelimiterIndiaStateCensusData.csv";
+        static string indiaStateCensusData = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCensusData.csv";
+        static string wrongIndiaStateCensusData = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\WrongIndiaStateCensusData.csv";
+        static string wrongFileIndiaStateCensusData = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSVFiles\WrongIndiaStateCensusData.csv";
+        static string indiaStateCensusDataText = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCensusDAta.txt";
+        static string delimiterIndiaStateCensusData = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\DelimiterIndiaStateCensusData.csv";
         static string indianStateCensusHeaders = "State,Population,AreaInSqKm,DensityPerSqKm";
 
         //StateCode
-        static string indiaStateCode = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCode.csv";
-        static string indiaStateCodeText = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCode.txt";
-        static string delimiterIndiaStateCode = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\DelimiterIndiaStateCode.csv";
-        static string wrongIndiaStateCode = @"C:\Users\tusha\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\WrongIndiaStateCode.csv";
+        static string indiaStateCode = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCode.csv";
+        static string indiaStateCodeText = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\IndiaStateCode.txt";
+        static string delimiterIndiaStateCode = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\DelimiterIndiaStateCode.csv";
+        static string wrongIndiaStateCode = @"C:\Users\vetri\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSV_Files\WrongIndiaStateCode.csv";
         static string indianStateCodeHeaders = "SrNo,State Name,TIN,StateCode";
         
 
